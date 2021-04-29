@@ -16,7 +16,7 @@ const App = () => (
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/">CHECK</Link>
           </li>
           <li>
             <Link to="/calendar">Calendar view</Link>
